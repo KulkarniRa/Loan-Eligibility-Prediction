@@ -9,12 +9,12 @@ The below columns in the dataset have missing values, these will be dealt with d
 
 |# Variable Name            |     % |
 --------------------------------------
-Tax Liens                   |    0.0001
-Bankruptcies                |    0.0022
-Years in current job        |    0.0429
-Credit Score                |    0.2400
-Annual Income               |    0.2400
-Months since last delinquent|    0.5456
+|Tax Liens                   |    0.0001
+|Bankruptcies                |    0.0022
+|Years in current job        |    0.0429
+|Credit Score                |    0.2400
+|Annual Income               |    0.2400
+|Months since last delinquent|    0.5456
 
 The below graph shows the distribution of the target variable "Loan Status". There were 63737 where loans were give and 25173 instances where loans were Refused. 
 
