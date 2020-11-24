@@ -6,3 +6,4 @@ When a customer applies for a loan at a company, the company determines whether 
 The dataset contains 111107 rows and 19 columns. of which 22197 records are duplicate and have been removed.
 
 ![](Images/LoanStatus.png)
+
